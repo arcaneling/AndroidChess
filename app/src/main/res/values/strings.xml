@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="welcome">Welcome</string>
+    <string name="play">Start Game</string>
+    <string name="replay">View Replays</string>
+    <string name="undo">Undo</string>
+    <string name="random">AI</string>
+    <string name="draw">Draw</string>
+    <string name="resign">Resign</string>
+    <string name="nextMove">Next Move</string>
+    <string name="returnHome">End Replay</string>
+    <string name="gameOver">Game Over!</string>
+    <string name="saveGame">Save Game</string>
+    <string name="quitGame">Quit</string>
+    <string name="titlePrompt">Enter Game Title</string>
+</resources>
